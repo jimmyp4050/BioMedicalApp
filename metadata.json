@@ -1,0 +1,7 @@
+{
+  "name": "Biomedical Device Maintenance Tracker",
+  "description": "An application for maintaining the AMC and maintenance date expiration for biomedical devices in a hospital.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
